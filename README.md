@@ -1,3 +1,8 @@
+This fork contains the solution attempt by Marius and me during the Apart Alignment Jam, see [here](https://docs.google.com/document/d/13C1E7EwFfw1YPn1wt96U8TqSQn1nxnJgVjCAtVfl9XU/edit#) for our report.
+
+More info coming shortly.
+
+
 # Mechanistic Interpretability Challenge
 
 ## Challenge 1, MNIST CNN:
