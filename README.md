@@ -1,6 +1,8 @@
 This fork contains the solution attempt by Marius and me during the Apart Alignment Jam, see [here](https://docs.google.com/document/d/13C1E7EwFfw1YPn1wt96U8TqSQn1nxnJgVjCAtVfl9XU/edit#) for our report.
 
-More info coming shortly.
+[Write-up 1](https://www.alignmentforum.org/posts/sTe78dNJDGywu9Dz6/solving-the-mechanistic-interpretability-challenges-eis-vii)
+
+[Write-up 2](https://www.alignmentforum.org/posts/k43v47eQjaj6fY7LE/solving-the-mechanistic-interpretability-challenges-eis-vii-1)
 
 
 # Mechanistic Interpretability Challenge
